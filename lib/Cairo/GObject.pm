@@ -31,7 +31,7 @@ Cairo::GObject - Integrate Cairo into the Glib type system
 
   use Cairo::GObject;
 
-  # Cairo and Glib are now loaded and the Cairo types are registed with
+  # Cairo and Glib are now loaded and the Cairo types are registered with
   # Glib's type machinery.  This allows you to correctly use Cairo types
   # in signals and properties.
 
