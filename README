@@ -96,14 +96,5 @@ Copyright (C) 2011 by the cairo perl team
 
 Torsten Schoenfeld       kaffeetisch at gmx dot de
 
-This library is free software; you can redistribute it and/or modify it under
-the terms of the GNU Library General Public License as published by the Free
-Software Foundation; either version 2.1 of the License, or (at your option) any
-later version.
-
-This library is distributed in the hope that it will be useful, but WITHOUT ANY
-WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A
-PARTICULAR PURPOSE.  See the GNU Library General Public License for more
-details.
-
-See the LICENSE file in the top level of this distribution for license terms.
+See the LICENSE file in the top-level directory of this distribution for the
+full license terms.
