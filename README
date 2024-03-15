@@ -29,18 +29,18 @@ In order to build it from source, you'll also need
 
 HOW TO CONTACT US
 -----------------
-Mailing list:   gtk-perl-list [at] gnome.org
+Support forum:  https://discourse.gnome.org/tags/c/platform/language-bindings/11/perl
 Homepage:       http://gtk2-perl.sourceforge.net/
 IRC:            irc://irc.gnome.org/#gtk-perl
 Bug submission: bug-Cairo-GObject [at] rt.cpan.org
 
 Please do not contact any of the maintainers directly unless they ask you to.
 The first point of contact for questions/problems/issues should always be the
-mailing list.
+support forum.
 
 BUG REPORTS
 -----------
-For help with problems, please contact the mailing list (above).  If you
+For help with problems, please contact the support forum (above).  If you
 already know you have a bug, please file it with one of the bug trackers
 below.  With any problems and/or bug reports, it's always helpful for the
 developers to have the following information:
@@ -60,8 +60,8 @@ Request Tracker; submitting bugs via the Web:
 <https://rt.cpan.org/Public/Bug/Report.html?Queue=Cairo-GObject>
 Submitting bugs via e-mail: bug-Cairo-GObject [at] rt.cpan.org
 
-Gnome's bugtracker: report bugs to the gnome-perl product:
-<http://bugzilla.gnome.org/enter_bug.cgi?product=gnome-perl>
+GNOME's bugtracker: report bugs to the perl-cairo-gobject product:
+<https://gitlab.gnome.org/GNOME/perl-cairo-gobject/>
 
 OBTAINING SOURCE FROM THE GNOME.ORG GIT REPO
 --------------------------------------------
@@ -81,13 +81,12 @@ git pull
 PATCH SUBMISSION GUIDELINES
 ---------------------------
 You can send us patches by...
-- E-mailing it to the mailing list (above); please use a pastebin service of
-  some kind for longer patchfiles (over say 20k in size).
+- Creating a Merge Request in GNOME GitLab.
 - E-mail a git pull request from GitHub or another hosted Git service to the
   mailing list.
 - Those with gnome.org Git ID's can push trivial patches to git directly; if
-  you're not sure what a trivial patch is, please ask on the mailing list
-  first prior to pushing your commit.
+  you're not sure what a trivial patch is, please ask first in the support
+  forum prior to pushing your commit.
 
 COPYRIGHT AND LICENSE
 ---------------------
